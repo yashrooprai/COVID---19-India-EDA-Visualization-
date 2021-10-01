@@ -1,4 +1,4 @@
-# COVID---19-India-EDA-Visualization-
+# COVID-19 India-(EDA and Visualization)
 <h2> About Dataset </h2>
 
 This dataset contains latest Covid-19 India state-wise data. This dataset can be used to analyze covid condition in India. This dataset is great for Exploratory Data Analysis
