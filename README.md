@@ -20,3 +20,14 @@ Active Ratio (%) - Ratio of number of active cases to total cases
 Discharge Ratio (%) - Ratio of number of discharged cases to total cases
 
 Death Ratio (%) - Ratio of number of deaths to total cases
+
+<img src = "images/newplot.png">
+
+<img src = "images/newplot (2).png">
+
+<img src = "images/newplot (1).png">
+
+<img src = "images/newplot (3).png">
+
+<img src = "images/newplot (4).png">
+
